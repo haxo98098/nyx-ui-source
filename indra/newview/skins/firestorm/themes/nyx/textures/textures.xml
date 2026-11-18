@@ -1,0 +1,26 @@
+<textures version="101">
+	<texture name="Parcel_SeeAVsOff_Light"	file_name="icons/Parcel_SeeAVsOff_Dark.png" />
+	<texture name="Pathfinding_Disabled" file_name="icons/Pathfinding_Disabled_Light.png" preload="false" />
+	<texture name="Window_Background" file_name="windows/Window_Background.png" preload="true" scale.left="12" scale.top="36" scale.right="52" scale.bottom="12" />
+	<texture name="Window_Foreground" file_name="windows/Window_Foreground.png" preload="true" scale.left="12" scale.top="36" scale.right="52" scale.bottom="12" />
+	<texture name="Window_NoTitle_Background" file_name="windows/Window_NoTitle_Background.png" preload="true" scale.left="12" scale.top="36" scale.right="52" scale.bottom="12" />
+	<texture name="Window_NoTitle_Foreground" file_name="windows/Window_NoTitle_Foreground.png" preload="true" scale.left="12" scale.top="36" scale.right="52" scale.bottom="12" />
+	<texture name="Toast_Background" file_name="windows/Toast_Background.png" preload="true" scale.left="12" scale.top="52" scale.right="52" scale.bottom="12" />
+	<texture name="Toast_Over" file_name="windows/Toast_Over.png" preload="true" scale.left="12" scale.top="52" scale.right="52" scale.bottom="12" />
+	<texture name="Inspector_Background" file_name="windows/Inspector_Background.png" preload="true" scale.left="12" scale.top="52" scale.right="52" scale.bottom="12" />
+	<texture name="Nyx_Dock" file_name="nyxui/Nyx_Dock.png" preload="true" scale.left="16" scale.top="32" scale.right="32" scale.bottom="16" />
+	<texture name="Nyx_DockBtn_Off" file_name="nyxui/Nyx_DockBtn_Off.png" preload="true" scale.left="10" scale.top="22" scale.right="22" scale.bottom="10" />
+	<texture name="Nyx_DockBtn_Over" file_name="nyxui/Nyx_DockBtn_Over.png" preload="true" scale.left="10" scale.top="22" scale.right="22" scale.bottom="10" />
+	<texture name="Nyx_DockBtn_Press" file_name="nyxui/Nyx_DockBtn_Press.png" preload="true" scale.left="10" scale.top="22" scale.right="22" scale.bottom="10" />
+	<texture name="Nyx_DockBtn_On" file_name="nyxui/Nyx_DockBtn_On.png" preload="true" scale.left="10" scale.top="22" scale.right="22" scale.bottom="10" />
+	<texture name="Nyx_DockBtn_Flash" file_name="nyxui/Nyx_DockBtn_Flash.png" preload="true" scale.left="10" scale.top="22" scale.right="22" scale.bottom="10" />
+	<texture name="Nyx_Capsule" file_name="nyxui/Nyx_Capsule.png" preload="true" scale.left="10" scale.top="9" scale.right="30" scale.bottom="9" />
+	<texture name="Nyx_Field" file_name="nyxui/Nyx_Field.png" preload="true" scale.left="12" scale.top="12" scale.right="28" scale.bottom="12" />
+	<texture name="Nyx_Card" file_name="nyxui/Nyx_Card.png" preload="true" scale.left="12" scale.top="36" scale.right="36" scale.bottom="12" />
+	<texture name="Nyx_Glass" file_name="nyxui/Nyx_Glass.png" preload="true" scale.left="16" scale.top="32" scale.right="32" scale.bottom="16" />
+	<texture name="Nyx_TopBar" file_name="nyxui/Nyx_TopBar.png" preload="true" scale.left="2" scale.top="30" scale.right="6" scale.bottom="2" />
+	<texture name="TextField_Search_Active" file_name="widgets/TextField_Search_Active.png" preload="true" scale.left="12" scale.top="12" scale.right="244" scale.bottom="11" />
+	<texture name="TextField_Search_Disabled" file_name="widgets/TextField_Search_Disabled.png" preload="true" scale.left="12" scale.top="12" scale.right="244" scale.bottom="11" />
+	<texture name="TextField_Search_Highlight" file_name="widgets/TextField_Search_Highlight.png" preload="true" scale.left="12" scale.top="12" scale.right="244" scale.bottom="11" />
+	<texture name="TextField_Search_Off" file_name="widgets/TextField_Search_Off.png" preload="true" scale.left="12" scale.top="12" scale.right="244" scale.bottom="11" />
+</textures>

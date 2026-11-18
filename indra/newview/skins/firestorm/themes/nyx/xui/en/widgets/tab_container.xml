@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--
+label_pad_bottom - vertical padding under tab button labels
+label_pad_left - padding to the left of tab button labels
+-->
+<tab_container name="tab_container" 
+               mouse_opaque="false"
+               tab_min_width="64"
+               tab_max_width="160"
+               use_custom_icon_ctrl="false"
+               halign="center"
+               font="SansSerif"
+               font.size="Small"
+               tab_height="21"
+               tabs_flashing_color="ButtonFlashBgColor"
+               label_pad_bottom="3"
+               label_pad_left="4">
+  <!--
+  Possible additional attributes for tabs:
+  tab_bottom_image_flash
+  tab_left_image_flash
+  tab_top_image_flash
+  -->
+  <first_tab tab_top_image_unselected="Nyx_DockBtn_Off"
+               tab_top_image_selected="Nyx_DockBtn_On"
+               tab_bottom_image_unselected="Nyx_DockBtn_Off"
+               tab_bottom_image_selected="Nyx_DockBtn_On"
+               tab_left_image_unselected="Nyx_DockBtn_Off"
+               tab_left_image_selected="Nyx_DockBtn_On"/>
+  <middle_tab tab_top_image_unselected="Nyx_DockBtn_Off"
+               tab_top_image_selected="Nyx_DockBtn_On"
+               tab_bottom_image_unselected="Nyx_DockBtn_Off"
+               tab_bottom_image_selected="Nyx_DockBtn_On"
+               tab_left_image_unselected="Nyx_DockBtn_Off"
+               tab_left_image_selected="Nyx_DockBtn_On"/>
+  <last_tab tab_top_image_unselected="Nyx_DockBtn_Off"
+               tab_top_image_selected="Nyx_DockBtn_On"
+               tab_bottom_image_unselected="Nyx_DockBtn_Off"
+               tab_bottom_image_selected="Nyx_DockBtn_On"
+               tab_left_image_unselected="Nyx_DockBtn_Off"
+               tab_left_image_selected="Nyx_DockBtn_On"/>
+</tab_container>

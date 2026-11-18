@@ -1,0 +1,15 @@
+<llsd>
+  <array>
+    <map>
+      <key>name</key><string>Nyxstorm</string>
+      <key>folder</key><string>firestorm</string>
+      <key>themes</key>
+      <array>
+        <map>
+          <key>name</key><string>Nyx Dark</string>
+          <key>folder</key><string>nyx</string>
+        </map>
+      </array>
+    </map>
+  </array>
+</llsd>
